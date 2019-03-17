@@ -1,0 +1,8 @@
+See below for some other datasets that I've found.  
+
+https://www.kaggle.com/puneet6060/intel-image-classification
+
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+https://www.kaggle.com/kmader/siim-medical-images
+
