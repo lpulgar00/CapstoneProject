@@ -1,0 +1,11 @@
+Steps that were taken so far:
+
+1. Took a shorter version of BPVC_I_2017BODYTEST.pdf and converted it to a txt file 
+using PDFMiner.  Code for that is BPVCode Analysis PDFMiner.ipynb. The result of pdf
+to txt is BPVC_I Conversion 3.txt. This txt is the raw file of the conversion.
+
+2. Took that txt file from step 1 and used spacy to begin parsing/tokenizing into
+sentences; the result of that is BPVC_I Sentences.txt.
+
+3. Took that txt file from step 2 and converted it to a csv to continue cleaning the
+data.
